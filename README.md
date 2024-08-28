@@ -13,6 +13,11 @@
 
 ![image](https://github.com/user-attachments/assets/fd126de2-dd9e-4ef6-a4cc-403590c504ba)
 
+- You need to add other players as collaborators for this repository, so they can send their updated save files. You can add users here:
+
+![image](https://github.com/user-attachments/assets/f6cf36e0-1016-42a3-81ef-1b9c6dd3b30d)
+
+
 - Copy the link to your repository by clicking the button `<> Code`, select `HTTPS` and copy the link ending with `.git`,
 
 <img src="https://github.com/user-attachments/assets/f26d17d5-1795-42c0-8db7-bf4721e8d987" alt="description" width="400">
