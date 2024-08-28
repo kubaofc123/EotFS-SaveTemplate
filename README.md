@@ -5,7 +5,13 @@
 
 - Fork this repository to your own account, (Needs to be done only once)
 
+![image](https://github.com/user-attachments/assets/cf84e740-5352-43fa-a33b-366c8560cf1a)
+
+![image](https://github.com/user-attachments/assets/20276d64-1ef4-4824-8146-21a0a6b04b44)
+
 - For each game that you are starting, create a new public repository using this template,
+
+![image](https://github.com/user-attachments/assets/fd126de2-dd9e-4ef6-a4cc-403590c504ba)
 
 - Copy the link to your repository by clicking the button `<> Code`, select `HTTPS` and copy the link ending with `.git`,
 
